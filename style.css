@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 10px white;
+}
+
+#status, #number_of_objects {
+    color: white;
+    font-size: 23px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+canvas {
+    margin-top: 40px;
+    box-shadow: 10px 10px 10px white;
+    border-radius: 10px;
+}
